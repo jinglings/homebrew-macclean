@@ -91,7 +91,7 @@ Download DMG from https://thulem.com/ (Apple silicon and Intel, macOS 14+).</Cha
       <Application_Order_URL>https://thulem.com/buy.html</Application_Order_URL>
       <Application_Screenshot_URL>https://thulem.com/assets/img/screens/native/light-en-disk_analysis.webp</Application_Screenshot_URL>
       <Application_Icon_URL>https://thulem.com/assets/img/icon-512.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://cdn.jsdelivr.net/gh/jinglings/homebrew-macclean@6030f1678bb7168754c05a36743e799a6fa57e95/pad/macclean.xml</Application_XML_File_URL>
+      <Application_XML_File_URL>https://cdn.jsdelivr.net/gh/jinglings/homebrew-macclean@main/pad/macclean.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://thulem.com/files/releases/MacClean-1.4.dmg</Primary_Download_URL>
