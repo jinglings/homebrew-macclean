@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Manual</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information about their products. This PAD file was generated for MacClean.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Thulem</Company_Name>
+    <Address_1></Address_1>
+    <Address_2></Address_2>
+    <City_Town></City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Country></Country>
+    <Company_WebSite_URL>https://thulem.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Jing</Author_First_Name>
+      <Author_Last_Name>Ling</Author_Last_Name>
+      <Author_Email>wjw599330@gmail.com</Author_Email>
+      <Contact_First_Name>Jing</Contact_First_Name>
+      <Contact_Last_Name>Ling</Contact_Last_Name>
+      <Contact_Email>wjw599330@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>wjw599330@gmail.com</Sales_Email>
+      <Support_Email>wjw599330@gmail.com</Support_Email>
+      <General_Email>wjw599330@gmail.com</General_Email>
+      <Support_WebSite>https://thulem.com/en/support.html</Support_WebSite>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>MacClean</Program_Name>
+    <Program_Version>1.4</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>14</Program_Cost_Dollars>
+    <Program_Cost_Other>¥98</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>macOS</Program_OS_Support>
+    <Program_Language>English,ChineseSimplified</Program_Language>
+    <Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
+    <Program_Categories>System Utilities :: File &amp; Disk Management</Program_Categories>
+    <Program_System_Requirements>macOS 14 Sonoma or later; Apple silicon or Intel</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>14893234</File_Size_Bytes>
+      <File_Size_K>14544</File_Size_K>
+      <File_Size_MB>14.20</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>7</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info>Full features for 7 days after first launch; scanning stays free; cleaning needs a license</Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Change_Info>Native macOS cleaner for WeChat/QQ/WeCom media, Storage Map, Xcode and AI caches.</Program_Change_Info>
+    <Program_Specific_Category>Utilities</Program_Specific_Category>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Mac cleaner, WeChat cleanup, Xcode cache, disk space analyzer, Mac storage, System Data, QQ cleanup, freemium Mac utility</Keywords>
+      <Char_Desc_45>Clean WeChat, Xcode, Mac storage clutter</Char_Desc_45>
+      <Char_Desc_80>Clean WeChat, Xcode, and Mac storage clutter — one native app</Char_Desc_80>
+      <Char_Desc_250>Native macOS cleaner for WeChat/QQ/WeCom media, Storage Map, Xcode/AI caches, duplicates and app leftovers. Free scan and 7-day full trial; freemium ¥98.</Char_Desc_250>
+      <Char_Desc_450>MacClean is a native macOS utility that helps reclaim disk space. Review WeChat, QQ and WeCom media by type, explore Storage Map and System Data, clean Xcode DerivedData and local AI model caches, find duplicates, and uninstall apps with leftover review. Scans stay free; full cleaning after a 7-day trial needs a one-time license (¥98).</Char_Desc_450>
+      <Char_Desc_2000>MacClean is a native macOS disk cleaner focused on real storage clutter: WeChat/QQ/WeCom media, Storage Map / System Data analysis, Xcode and developer caches, local AI models, duplicate files, and app uninstall leftovers.
+
+Features:
+- Chat media cleanup for WeChat, QQ and WeCom (review before remove)
+- Storage Map to understand large folders and System Data
+- Developer Tools: Xcode DerivedData, npm/pip/Gradle caches, Ollama/Hugging Face/LM Studio models
+- App manager with leftover review
+- Duplicate files and similar photos
+- Menu bar status (disk, memory, battery, network)
+- Ordinary cleanup moves files to Trash so you can restore from Cleanup History
+
+Pricing: freemium. Free scan forever; 7-day full trial; Lifetime license ¥98 (about $14) for cleaning on 2 Macs. Not Apple-notarized yet — first open may need Control-click Open / Open Anyway.
+
+Download DMG from https://thulem.com/ (Apple silicon and Intel, macOS 14+).</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://thulem.com/en/</Application_Info_URL>
+      <Application_Order_URL>https://thulem.com/buy.html</Application_Order_URL>
+      <Application_Screenshot_URL>https://thulem.com/assets/img/screens/native/light-en-disk_analysis.webp</Application_Screenshot_URL>
+      <Application_Icon_URL>https://thulem.com/assets/img/icon-512.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/jinglings/homebrew-macclean/main/pad/macclean.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://thulem.com/files/releases/MacClean-1.4.dmg</Primary_Download_URL>
+      <Secondary_Download_URL>https://thulem.com/download/latest</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>You may distribute MacClean via download directories and review sites with the official DMG link unchanged. Do not rehost modified binaries.</Distribution_Permissions>
+    <EULA>https://thulem.com/en/terms.html</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
