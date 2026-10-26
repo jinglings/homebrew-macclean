@@ -35,12 +35,12 @@
     <Program_Release_Month>10</Program_Release_Month>
     <Program_Release_Day>01</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
-    <Program_Cost_Dollars>14</Program_Cost_Dollars>
-    <Program_Cost_Other>¥98</Program_Cost_Other>
-    <Program_Type>Shareware</Program_Type>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Cost_Other>Free</Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Minor Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Mac OS X</Program_OS_Support>
+    <Program_OS_Support>macOS</Program_OS_Support>
     <Program_Language>English,ChineseSimplified</Program_Language>
     <Program_Category_Class>System Utilities::Other</Program_Category_Class>
     <Program_Categories>System Utilities :: File &amp; Disk Management</Program_Categories>
@@ -64,11 +64,11 @@
   </Program_Info>
   <Program_Descriptions>
     <English>
-      <Keywords>Mac cleaner, WeChat cleanup, Xcode cache, disk space analyzer, Mac storage, System Data, QQ cleanup, freemium Mac utility</Keywords>
+      <Keywords>Mac cleaner, WeChat cleanup, Xcode cache, disk space analyzer, Mac storage, System Data, QQ cleanup, free Mac utility</Keywords>
       <Char_Desc_45>Clean WeChat, Xcode, Mac storage clutter</Char_Desc_45>
       <Char_Desc_80>Clean WeChat, Xcode, and Mac storage clutter — one native app</Char_Desc_80>
-      <Char_Desc_250>Native macOS cleaner for WeChat/QQ/WeCom media, Storage Map, Xcode/AI caches, duplicates and app leftovers. Free scan and 7-day full trial; freemium ¥98.</Char_Desc_250>
-      <Char_Desc_450>MacClean is a native macOS utility that helps reclaim disk space. Review WeChat, QQ and WeCom media by type, explore Storage Map and System Data, clean Xcode DerivedData and local AI model caches, find duplicates, and uninstall apps with leftover review. Scans stay free; full cleaning after a 7-day trial needs a one-time license (¥98).</Char_Desc_450>
+      <Char_Desc_250>Native macOS cleaner for WeChat/QQ/WeCom media, Storage Map, Xcode/AI caches, duplicates and app leftovers. Free (no charge). Review-before-delete. Not notarized.</Char_Desc_250>
+      <Char_Desc_450>MacClean is a native macOS utility that helps reclaim disk space. Review WeChat, QQ and WeCom media by type, explore Storage Map and System Data, clean Xcode DerivedData and local AI model caches, find duplicates, and uninstall apps with leftover review. Free (no charge). Ordinary cleanup goes to Trash first. Not notarized — Gatekeeper may warn.</Char_Desc_450>
       <Char_Desc_2000>MacClean is a native macOS disk cleaner focused on real storage clutter: WeChat/QQ/WeCom media, Storage Map / System Data analysis, Xcode and developer caches, local AI models, duplicate files, and app uninstall leftovers.
 
 Features:
@@ -80,7 +80,7 @@ Features:
 - Menu bar status (disk, memory, battery, network)
 - Ordinary cleanup moves files to Trash so you can restore from Cleanup History
 
-Pricing: freemium. Free scan forever; 7-day full trial; Lifetime license ¥98 (about $14) for cleaning on 2 Macs. Not Apple-notarized yet — first open may need Control-click Open / Open Anyway.
+Pricing: Free / no charge. Not Apple-notarized yet — first open may need Control-click Open / Open Anyway.
 
 Download DMG from https://thulem.com/ (Apple silicon and Intel, macOS 14+).</Char_Desc_2000>
     </English>
