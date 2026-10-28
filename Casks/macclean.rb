@@ -1,6 +1,6 @@
 cask "macclean" do
-  version "1.4"
-  sha256 "8922bc7c9bd7a6ccac1e4780e71530cbc49371ac8e2c73dea7434917ea84932a"
+  version "1.6"
+  sha256 "c955d290a2e99616b0de52a97a08359c6593bd6228d687c37abdec701c1a1938"
 
   url "https://thulem.com/files/releases/MacClean-#{version}.dmg"
   name "MacClean"
