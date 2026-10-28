@@ -40,9 +40,9 @@ brew uninstall --cask --zap macclean
 | Field | Value |
 |-------|--------|
 | Token | `macclean` |
-| Version | 1.4 |
+| Version | 1.6 |
 | Homepage | https://thulem.com/en/ |
-| DMG | https://thulem.com/files/releases/MacClean-1.4.dmg |
+| DMG | https://thulem.com/files/releases/MacClean-1.6.dmg |
 | Bundle ID | `com.hr.MacClean` |
 
 ## Notes
